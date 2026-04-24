@@ -10,12 +10,11 @@
 - 💻 Building scalable backend systems and AI-powered applications  
 - ⚙️ Focused on distributed systems and real-world AI integration  
 
----
-<br>
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/rahulpamula?theme=dark&font=Aldrich" alt="LeetCode Stats">
 </p>
+<br>
+
 ## 🔥 Current Work
 
 ### 🧠 ShrMail — AI-Powered Communication System
@@ -30,22 +29,9 @@
 👉 Repository:  
 https://github.com/Rahul-pamula/Sh_R_Mail  
 
----
-
-## 🛠 Tech Stack
-- Python, Java, SQL  
-- FastAPI, Django  
-- PostgreSQL, MongoDB  
-- RabbitMQ, Docker  
-- Azure  
-
----
 
 ## 📫 Contact
 - 📧 pamularahul123@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/rahul-pamula/  
 - 💻 GitHub: https://github.com/Rahul-pamula  
 
----
-
-⭐ Focused on building scalable backend systems and AI-driven platforms.
