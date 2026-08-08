@@ -55,7 +55,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Rahul-pamula&show_icons=true&theme=radical" alt="Rahul's GitHub Stats" />
+        <img src="https://gh-readme-stats.vercel.app/api?username=Rahul-pamula&show_icons=true&theme=radical" alt="Rahul's GitHub Stats" />
       </td>
     </tr>
   </table>
