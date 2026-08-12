@@ -62,6 +62,7 @@
 </div>
 
 ---
+<a href="https://gitroll.io/profile/u292KogMdJGe5JzG5CFldYOjm9Pu2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u292KogMdJGe5JzG5CFldYOjm9Pu2?theme=light" alt="GitRoll Profile Badge"/></a>
 
 ### 💼 Experience
 
