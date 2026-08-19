@@ -48,20 +48,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://gh-readme-stats.vercel.app/api?username=Rahul-pamula&show_icons=true&theme=radical" alt="Rahul's GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 <a href="https://gitroll.io/profile/u292KogMdJGe5JzG5CFldYOjm9Pu2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u292KogMdJGe5JzG5CFldYOjm9Pu2?theme=light" alt="GitRoll Profile Badge"/></a>
 
 ### 💼 Experience
